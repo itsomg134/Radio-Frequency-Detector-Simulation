@@ -22,9 +22,9 @@ A web-based simulation of a radio frequency detector with interactive controls a
 - **Responsive Design**: Works on desktop and mobile devices
 - **Educational Focus**: Learn about frequency allocations and RF detection principles
 
-## 🚀 Live Demo
+##  Demo image
 
-You can try the live version here: [RF Detector Simulation](https://yourusername.github.io/rf-detector/)
+<img width="1880" height="1889" alt="image" src="https://github.com/user-attachments/assets/a3894c2f-e896-470a-97f0-baa5eedd9669" />
 
 ## 🛠️ Installation
 
