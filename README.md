@@ -137,4 +137,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Color scheme inspired by professional RF equipment
 
 ## 📧 Contact
+Om Gedam
 
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
